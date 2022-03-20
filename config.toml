@@ -46,8 +46,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "Hugo B8a"
+    subtitle = "B8a Test Site
     owner = ""
     keywords = ""
     copyright = ""
