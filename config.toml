@@ -1,4 +1,4 @@
-baseurl = "/'
+baseurl = "/"
 title = "Hugo B8a"
 theme = "hugo-coder"
 languagecode = "en"
