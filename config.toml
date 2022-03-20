@@ -47,7 +47,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Hugo B8a"
-    subtitle = "B8a Test Site
+    subtitle = "B8a Test Site"
     owner = ""
     keywords = ""
     copyright = ""
