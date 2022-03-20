@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme: "PaperMod"
+theme = "PaperMod"
 paginate = 5
 
 [params]
